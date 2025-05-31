@@ -1,0 +1,13 @@
+\rebus FÄRVEXFÖRVHRUCT \upphovsman Stor-Glädje
+\op i-utbrytning
+XFÖRVHRUC I FÄRVET
+\op gruppera
+XFÖRV HRUCIF ÄRVET
+\op i-utbrytning
+HRUCIF I XFÖRVÄRVET
+\op H->K
+KRUCIFIXFÖRVÄRVET
+\op !
+KORSKÖPET
+\op K->H
+\ort HORSKÖPET

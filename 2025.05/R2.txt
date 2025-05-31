@@ -1,0 +1,9 @@
+\rebus ÄKTMMAN \upphovsman Blossing
+\op M->A
+ÄKTAMAN
+\op !
+MAKE
+\op A->M
+MMKE
+\op i-utbrytning
+\ort KIMME

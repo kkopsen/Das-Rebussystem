@@ -1,0 +1,15 @@
+\rebus SYHNOJLINOMALL \upphovsman Hendrix
+\op gruppera
+S YHNOJLIN OM ALL
+\op om-skrivning
+S ALL YHNOJLIN
+\op <->
+NILJONHYLLAS
+\op N->M
+MILJONHYLLAS
+\op !
+MEGAHÖJS
+\op M->N
+NEGAHÖJS
+\op <->
+\ort SJÖHAGEN

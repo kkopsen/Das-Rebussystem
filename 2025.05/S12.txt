@@ -1,0 +1,11 @@
+\rebus EGAMYEGAD \upphovsman Stor-Glädje
+\op <->
+DAGEYMAGE
+\op +B
+DAGEBYMAGE
+\op !
+PROGGBUK
+\op -B
+PROGGUK
+\op <->
+\ort KUGGORP

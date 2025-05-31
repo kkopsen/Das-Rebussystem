@@ -1,0 +1,9 @@
+\rebus NUK60MER \upphovsman Stor-Glädje
+\op i-utbrytning
+60MINUKER
+\op K->T
+60 MINUTER
+\op !
+TIMME
+\op T->K
+\ort KIMME

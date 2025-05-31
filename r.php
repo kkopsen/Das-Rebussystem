@@ -252,7 +252,7 @@ echo '<table cellpadding=2>';
 echo '<tr>';
 $i = 0;
 foreach ($GLOBALS['events'] as $e => $ename) {
-    echo "<td>$e</td>\n";
+    echo "<td>".str_replace(' ','&nbsp;',$e)."</td>\n";
     ++$i;
 }
 echo '</tr>';

@@ -1,0 +1,11 @@
+\rebus POLITTAPPOMISKTSTJÄRNS \upphovsman Hendrix
+\op gruppera
+POLIT TAPP OM ISKTSTJÄRNS
+\op om-skrivning
+POLIT ISKTSTJÄRNS TAPP
+\op A->O
+POLITISKTSTJÄRNSTOPP
+\op !
+VETO
+\op O->A
+\ort VETA

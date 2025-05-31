@@ -1,0 +1,11 @@
+\rebus ANDEIÅTERKMMLJUD \upphovsman Jonas
+\op gruppera
+ANDE I ÅTERKMM LJUD
+\op i-inskrivning
+ÅTERKMMANDELJUD
+\op +O
+ÅTERKOMMANDELJUD
+\op !
+EKO
+\op -O
+\ort EK

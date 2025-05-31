@@ -1,0 +1,13 @@
+\rebus ROBATTERISTENCKGRÖPPEN \upphovsman Blossing
+\op gruppera
+RO BATTERISTEN CKGRÖPPEN
+\op i-utbrytning
+BATTERISTEN I ROCKGRÖPPEN
+\op Ö->U
+BATTERISTEN I ROCKGRUPPEN
+\op !
+TRUMMISEN
+\op U->Ö
+TRÖMMISEN
+\op i-inskrivning
+\ort STRÖMMEN

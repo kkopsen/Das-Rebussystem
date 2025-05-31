@@ -1,0 +1,15 @@
+\rebus KAVERKEITYSTOMÄPPELBAKEN \upphovsman Hendrix
+\op gruppera
+KAVERKE I TYSTOMÄPPELBAKEN
+\op i-inskrivning
+TYS KAVERKE TOMÄPPELBAKEN
+\op gruppera
+TYSKA VERKET OM ÄPPELBAKEN
+\op om-skrivning
+TYSKA ÄPPELBAKEN VERKET
+\op -E -N
+TYSKA ÄPPELBAKVERKET
+\op !
+STRUDELN
+\op +E +N
+\ort ST RUNDELEN

@@ -1,0 +1,19 @@
+\rebus TENOMIKATEN \upphovsman Jonas
+\op gruppera
+TENOM I KAT EN
+\op i-inskrivning
+KAT TENOM EN
+\op gruppera
+KATT EN OM EN
+\op om-skrivning
+KATT EN EN
+\op gruppera
+KATTENEN
+\op T->P
+KAPTENEN
+\op !
+PILOTEN
+\op P->T
+TILOTEN
+\op i-inskrivning
+\ort LOTTEN

@@ -1,0 +1,15 @@
+\rebus JABOBITOGAOMSAJ \upphovsman Stor-Glädje
+\op gruppera
+JABOB I T OGAOMSAJ
+\op i-inskrivning
+TJABOBOGAOMSAJ
+\op gruppera
+TJABO BOGA OM SAJ
+\op om-skrivning
+TJABOSAJBOGA
+\op J->R
+TJABOS ARBOGA
+\op !
+ÖREBRO
+\op R->J
+\ort ÖJEBRO

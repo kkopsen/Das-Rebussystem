@@ -1,0 +1,15 @@
+\rebus TOMEAGÄF \upphovsman Blossing
+\op <->
+FÄGAEMOT
+\op F->S
+SÄGAEMOT
+\op !
+PROTESTERA
+\op S->F
+PROTEFTERA
+\op gruppera
+PROT EFTER A
+\op efter-skrivning
+APROT
+\op <->
+\ort TORPA

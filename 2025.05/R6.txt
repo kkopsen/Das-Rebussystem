@@ -1,0 +1,9 @@
+\rebus FTRTRÄSKRD \upphovsman Stor-Glädje
+\op i-utbrytning
+SKRIFTRTRÄD
+\op -R
+SKRIFTTRÄD
+\op !
+BOK
+\op +R
+\ort BROK

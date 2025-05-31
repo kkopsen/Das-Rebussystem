@@ -1,0 +1,7 @@
+\rebus FLÄSKFODRAS \upphovsman Hendrix
+\op S->L
+FLÄSKFODRAL
+\op !
+SVÅL
+\op L->S
+\ort SVÅS

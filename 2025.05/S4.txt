@@ -1,0 +1,15 @@
+\rebus RYPTMASISUGIL \upphovsman Stor-Glädje
+\op <->
+LIGUSISAMTPYR
+\op gruppera
+LIGUS I SAMT PYR
+\op i-inskrivning
+SAMT LIGUS PYR
+\op U->A
+SAMTLIGASPYR
+\op !
+ALLAKRÄKS
+\op A->U
+ALLUKRÄKS
+\op <->
+\ort SKÄRKULLA

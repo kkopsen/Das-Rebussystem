@@ -1,0 +1,7 @@
+\rebus TINIVARTINI \upphovsman Hendrix
+\op i-inskrivning
+VAR TIN TIN I
+\op gruppera
+VAR TINTIN i
+\op !
+\ort AMERIKA

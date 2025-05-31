@@ -1,0 +1,11 @@
+\rebus LOBMYBNETSIRK \upphovsman Hendrix
+\op <->
+KRISTENBYMBOL
+\op B->S
+KRISTEN SYMBOL
+\op !
+KORS
+\op S->B
+KORB
+\op <->
+\ort BROK

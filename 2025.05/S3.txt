@@ -1,0 +1,15 @@
+\rebus SJISETERIÖÖÖ \upphovsman Stor-Glädje
+\op gruppera
+SJ I SETERIÖ ÖÖ
+\op i-inskrivning
+SETERIÖSJÖÖ
+\op gruppera
+SETER I Ö SJÖÖ
+\op i-inskrivning
+ÖSETERSJÖÖ
+\op -E
+ÖSTERSJÖÖ
+\op !
+BORNHOLM
+\op +E
+\ort BORNEHOLM
