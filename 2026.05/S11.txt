@@ -1,0 +1,10 @@
+\rebus ÖSTAUDUDS
+ÖST AUD UDS
+\op i
+AUDIÖSTUDS 
+\op Ö->O
+AUDIOSTUDS 
+\op !
+EKO
+\op O->Ö
+\ort EKÖ

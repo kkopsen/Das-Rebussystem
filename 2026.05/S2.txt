@@ -1,0 +1,14 @@
+\rebus METSBUSLLTUT
+\op <->
+TUTLLSUBSTEM
+TUTLL SUBST EM
+\op i
+SUBSTITUTLLEM 
+\op -L
+SUBSTITUTLEM 
+\op !
+PROTES
+\op <->
+SETORP
+\op +L
+\ort SELTORP

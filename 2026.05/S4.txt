@@ -1,0 +1,11 @@
+\rebus BARESSRERTNIO
+\op <->
+OINTRERSSERAB
+\op B->D, -R
+OINTRESSERAD 
+\op !
+LIKNÖJD 
+\op <->
+DJÖNKIL
+\op D->B, +R
+\ort BJÖRNKIL

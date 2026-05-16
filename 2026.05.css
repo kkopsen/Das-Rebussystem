@@ -1,0 +1,241 @@
+html {
+    height: 100%;
+}
+body {
+    font-family: 'Open Sans';
+    font-size: 12px;
+    background: radial-gradient(#e6cdaa, #d6a96a);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+td {
+    font-family: Arial;
+    font-size: 18px;
+    color: #000000;
+}
+.maxavg {
+    font-family: Arial;
+    font-style: italic;
+    font-size: 13px;
+    color: white;
+    opacity: 0.5;
+}
+a {
+    font-family: Arial;
+    font-size: 12px;
+    text-decoration: none;
+    color: #334450;
+}
+.tr_odd {
+    background-color: rgba(255,255,255,0.1);
+}
+.tr_even {
+    background-color: rgba(0,0,0,0.1);
+}
+.tr_odd td, .tr_even td {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.rebustable {
+    padding: 20px;
+    border: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header {
+    font-size: 18px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 33px;
+    vertical-align: top;
+    text-align: left;
+    height: 80px
+}
+.headerline {
+    background-color: #ffffff;
+    height: 0px;
+}
+.rub1 {
+    font-family: 'Tragic Marker';
+    font-size: 36px;
+    color: #ffffff;
+}
+.rub2 {
+    color: #5384e5;
+}
+.rub3 {
+    color: #ffffff;
+}
+.rub4 {
+    display: none;
+}
+.rub5 {
+    font-size: 10px;
+    color: #ffffff;
+}
+.rebustext {
+    font-size: xx-large;
+    text-align: center;
+}
+.originalrebus {
+}
+.rebusortDiv {
+    padding: 10px;
+    text-align: center;
+}
+.rebusortSvart {
+    font-family: TratexSvart, 'Arial Black';
+    border:4px solid #c8002d;
+    margin:4px 0 4px 0;
+    padding: 5px 20px 5px 20px;
+    text-align:center;
+    background-color: #f4cd24;
+}
+.rebusort {
+    font-family: 'TratexVit', 'Arial Black';
+    color: #ffffff;
+    border:4px solid #ffffff;
+    margin:6px 0 6px 0;
+    padding: 5px 20px 5px 20px;
+    text-align:center;
+    background-color: #03326b;
+    box-shadow: 2px 2px 6px #111111;
+    letter-spacing:4px;
+}
+.rebusop {
+    font-size: x-large;
+    font-style: italic;
+    text-align: center;
+}
+.rebusmaker {
+    font-size: small;
+    font-style: italic;
+}
+.logo {
+    vertical-align: middle;
+    float: right;
+    width: 80px;
+    height: 80px;
+}
+.graph_bar {
+    fill: #578636;
+}
+.chart {
+    display: inline-block;
+    padding: 6px;
+    background-color: #fafafa;
+    box-shadow: 2px 2px 6px #111111;
+    border-radius: 2px;
+}
+.chart text {
+    font: 16px sans-serif;
+}
+
+.number {
+    fill: #ffffff;
+}
+.graph_odd {
+    fill: #becdeb;
+}
+.graph_even {
+    fill: #aebddb;
+}
+.maxline {
+    display: none;
+    stroke: #000050;
+    stroke-width: 2px;
+}
+.maxline-text {
+    fill: #000050;
+}
+
+.content {
+    margin-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.headertitle {
+    float:left;
+}
+.headerlogo {
+    float:right;
+}
+.disabled {
+    fill: #505050;
+}
+.content img {
+    display: inline-block;
+    padding: 6px;
+    background-color: #fafafa;
+    box-shadow: 2px 2px 6px #111111;
+    margin: -10px;
+    border-radius: 2px;
+	transform: rotate(-1deg);
+    margin-bottom: 20px;
+}
+@font-face {
+    font-family: 'TratexSvart';
+    src: url('http://ibsenskusiner.se/tratexsvart.woff') format('woff');
+         url('http://ibsenskusiner.se/tratexsvart.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+.plates {
+    margin-top: -50px;
+    z-index: 100;
+    position: relative;
+    padding: 0px 10px;
+
+}
+.plates li {
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    box-shadow: 2px 2px 6px #111111;
+    border-radius: 50px;
+    background-color: #fcfcfc;
+    border-color: #f9f9f9;
+    border-width: 10px;
+    border-style: solid;
+    text-align: center;
+    line-height: 90px;
+    font-family: 'Tragic Marker', sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    margin: 10px;
+}
+.plates li.false {
+    background-color: #d84d4d;
+    border-color: #c33939;
+
+}
+.platetheme {
+    font-size: 24px;
+}
+
+.content .collage {
+    text-align: center;
+    margin-top: 30px;
+}
+.content .collage img:nth-child(2n+1) {
+	transform: rotate(-2deg);
+}
+.content .collage img:nth-child(3n+2) {
+	transform: rotate(1deg);
+}
+.content .collage img:nth-child(5n+3) {
+	transform: rotate(-3deg);
+}
+.content .collage img:nth-child(7n+5) {
+	transform: rotate(6deg);
+}
+.content .collage img:nth-child(11n+7) {
+	transform: rotate(4deg);
+}
+.content .collage img {
+    transform: rotate(0deg);
+    width: 300px;
+    margin: -10px;
+}

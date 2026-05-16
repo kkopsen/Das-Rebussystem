@@ -55,11 +55,11 @@ function chart($data, $sort = 0, $prev_data = null, $max = 0)
     echo "var screenWidth = " . SCREENWIDTH . ";\n";
     echo <<<JAVASCRIPT
 
-var graphWidth = screenWidth * 0.75;
-var textWidth = screenWidth * 0.25;
+var graphWidth = screenWidth * 0.70;
+var textWidth = screenWidth * 0.30;
 var barHeight = 30;
 var width = graphWidth + textWidth;
-var height = barHeight * data.length + 30;
+var height = barHeight * data.length;
 
 function ƒ(name) {
   var v, params = Array.prototype.slice.call(arguments, 1);

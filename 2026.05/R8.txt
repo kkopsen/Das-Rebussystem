@@ -1,0 +1,10 @@
+\rebus LSNERLPÄRTERPAGET  
+\op i
+PÄRTERP I LSNERLAGET   
+PÄRTERPILSNERLAGET
+\op Ä->O, T->R
+PORTERPILSNERLAGER  
+\op !
+ÖLSORTER  
+\op O->Ä, R->T
+\ort ÖLSÄTTER

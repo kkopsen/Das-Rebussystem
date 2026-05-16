@@ -1,0 +1,11 @@
+\rebus LLÄTSÅLBIDADIBSLEÅFNETRÅM 
+\op <->
+MÅRTENFÅELSBIDADIBLÅSTÄLL  
+\op B->V, +G
+MÅRTENFÅGELSVIDADIBLÅSTÄLL 
+\op !
+OVERALLGÅS 
+\op V->B, -G
+OBERALLÅS 
+\op <-> 
+\ort SÅLLAREBO

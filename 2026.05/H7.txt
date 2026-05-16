@@ -1,0 +1,7 @@
+\rebus STRÖAMMÅNGBEREBD  
+\op -A, Å->I, B->D
+STRÖMMINGBEREDD  
+\op !
+SILLREDO  
+\op +A, I->Å, D->B
+\ort SÅLLAREBO

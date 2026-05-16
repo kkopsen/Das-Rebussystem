@@ -1,0 +1,11 @@
+\rebus EDNAGATAGAVA
+\op <->
+AVAGATAGANDE
+\op +D
+AVDAGATAGANDE 
+\op !
+MORD 
+\op <->
+DROM
+\op -D
+\ort ROM

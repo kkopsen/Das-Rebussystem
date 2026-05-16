@@ -1,0 +1,11 @@
+\rebus NOITTRÖJGGNEPSN
+\op <->
+GJÖRTINSPENTION
+\op Ö->O, N->K
+GJORTINSPEKTION 
+\op !
+KOLLAT 
+\op <->
+TALLOK
+\op O->Ö, K->N
+\ort TALLÖN

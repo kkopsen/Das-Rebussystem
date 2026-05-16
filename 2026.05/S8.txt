@@ -1,0 +1,10 @@
+\rebus BSCÄRALLTOGUTEN
+BSC ÄRALLT OGUTEN
+\op i
+ÄRALLTIBSCOGUTEN 
+\op B->D, -G
+ÄRALLTIDSCOUTEN 
+\op !
+REDO
+\op D->B, +G
+\ort GREBO
