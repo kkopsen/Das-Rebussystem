@@ -3,9 +3,16 @@ Das Rebussystem, ett Hallonhack, baserat på BasPers perlhack från 1999
 
 Skapat av Trial and Error 2011
 
-Docker
+
+Installation
 ------------
-Om du vill slippa installera lika många beroenden kan du köra i Docker. Kräver dock exempelvis Docker Desktop.
+
+För att använda detta system behövs en webbserver med php-stöd samt php-sqlite och php-json. Lägg hela skiten i lämplig katalog och sätt igång!
+
+
+Docker
+------
+Om du vill förenkla installationen kan du köra i Docker. Kräver dock exempelvis Docker Desktop.
 
 Kör då först följande i lämplig terminal bör att bygga en container, när du står i roten:
 
@@ -53,14 +60,6 @@ Om förstasidan laddar men ingen av de andra sidorna så kan du öppna container
 Om det är en nyare version än den som finns i Dockerfile så behöver du ändra på den raden som länkar in olika versioner av sqlite.
 
 
-Installation
-------------
-
-För att använda detta system behövs en webbserver med php-stöd samt
-php-sqlite och php-json. Lägg hela skiten i lämplig katalog och sätt
-igång!
-
-
 Översikt
 --------
 
@@ -86,12 +85,14 @@ relativt självförklarande, men här är ändå en förklaring:
 * teams: En array som mappar lagnamn mot lagnummer och antal lagmedlemmar.
 Antal lagmedlemmar behöver endast sättas till rätt antal om man vill
 använda prickberäkning baserat på antal lagmedlemmar. För att markera
-blåbärslag och småbil osv kan man använda syntaxen:
+blåbärslag och småbil osv kan man använda syntaxen
 
-'Lag namn' => array(<lag nummer>, <antal lagmedlemmar>, <flair>),
+```
+    'Lag namn' => array(<lag nummer>, <antal lagmedlemmar>, <flair>),
+```
 
 Flair en bild som läggs framför lagnamnet i grafer, för att använda tex markera
-en småbil kan man skriva '<small>' och skapa en bild som heter small.png.
+en småbil kan man skriva `'<small>'` och skapa en bild som heter small.png.
 
 * events: En ganska stor array som innehåller alla rebusar, pyssel och
 plock och övriga "grenar" som ger prickar, tex öppnade kuvert. 
@@ -202,11 +203,11 @@ t.ex. '*solution*S<text>' som beskrivs ovan.
 
 Blåbärs-rebusar visas bara om de är med i arrayen bluerebus. Exempel:
 
-$bluerebus = array(2, 3, 4, 6, 7, 8);
+    $bluerebus = array(2, 3, 4, 6, 7, 8);
 
 Blåbärshjälprebusar visas bara om de är med i arrayen bluehelprebus. Exempel:
 
-$bluehelprebus = array(2, 3);
+    $bluehelprebus = array(2, 3);
 
 Vill man inte ha några blåbärsrebusar gör man två tomma arrayer.
 
