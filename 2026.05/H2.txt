@@ -1,0 +1,9 @@
+\rebus BRÖLLOPAAKT 
+\op A->S
+BRÖLLOPSAKT  
+\op !
+VIGSEL
+\op S->A
+VIGAEL
+\op i
+\ort GAVEL

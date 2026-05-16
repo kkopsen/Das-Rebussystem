@@ -1,0 +1,10 @@
+\rebus PENOMIUS
+PEN OM IUS
+\op om
+PIUSEN   
+\op I->A
+PAUSEN 
+\op !
+RASTEN
+\op A->I
+\ort RISTEN

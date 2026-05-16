@@ -1,0 +1,10 @@
+\rebus NÖNSMINÄRSÄLER
+NÖNSM I NÄRSÄLER 
+\op i
+NÄRSNÖNSMÄLER 
+\op +T
+NÄRSNÖNSMÄLTER 
+\op !
+TÖ
+\op -T
+\ort Ö

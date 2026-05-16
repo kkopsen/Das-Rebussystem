@@ -1,0 +1,10 @@
+\rebus JASARIFM
+\op <->
+MFIRASAJ
+M FIRAS AJ
+\op i
+FIRASIMAJ 
+\op !
+MOR
+\op <->
+\ort ROM

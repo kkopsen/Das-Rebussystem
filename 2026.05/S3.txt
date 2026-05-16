@@ -1,0 +1,14 @@
+\rebus NISSNÖSN
+\op -Ö
+NISSNSN 
+\op i
+SNSNSN
+Sn Sn Sn 
+\op per
+50 50 50
+\op rom
+LLL
+\op i
+LILL
+\op +Ö
+\ort LILLÖ

@@ -1,0 +1,7 @@
+\rebus KOMPÖNSELAR   
+\op Ö->E, L->R
+KOMPENSERAR   
+\op !
+ERSÄTTER   
+\op E->Ö, R->L
+\ort ÖLSÄTTER

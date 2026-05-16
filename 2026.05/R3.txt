@@ -1,0 +1,10 @@
+\rebus 155392347 
+15 53 92 34 7 
+\op per
+P I U Se N 
+\op I->A
+PAUSEN 
+\op !
+RASTEN
+\op A->I
+\ort RISTEN
